@@ -22,7 +22,7 @@ body {
 }
 .img1, .img2{
   height: 50%;
-  width: auto;
+  width: 100%;
   overflow: hidden;
 }
 
