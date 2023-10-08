@@ -1,0 +1,50 @@
+# Apple ModelI/O MTL File: A-Pose_ThinWalled.mtl
+
+newmtl BASE_FRONT_2109
+	map_Kd BASE_FRONT_2109-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic BASE_FRONT_2109-metallic.png
+	specularTint 0
+	map_roughness BASE_FRONT_2109-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl CUFFS_FRONT_2121
+	map_Kd CUFFS_FRONT_2121-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic CUFFS_FRONT_2121-metallic.png
+	specularTint 0
+	map_roughness CUFFS_FRONT_2121-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl COLLAR_FRONT_2130
+	map_Kd COLLAR_FRONT_2130-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic COLLAR_FRONT_2130-metallic.png
+	specularTint 0
+	map_roughness COLLAR_FRONT_2130-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
